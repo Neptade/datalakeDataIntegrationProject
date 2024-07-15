@@ -5,3 +5,4 @@ dataset
 .metals
 .bsp
 logs
+__pycache__
